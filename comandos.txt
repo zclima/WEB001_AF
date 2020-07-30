@@ -1,0 +1,5 @@
+git clone <nome do repositorio>
+Foi dado um comando touch dentro do git bash na pasta para criar os dois arquivos.
+Depois foi dado um (git add *) para enviar os arquivos para a HEAD.
+Foi dado um git commit -m para adicionar um comentario.
+E um git push origin master para ser enviado ao repositorio online.
